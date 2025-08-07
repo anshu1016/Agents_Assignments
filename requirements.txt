@@ -1,0 +1,13 @@
+ipykernel
+pypdf
+pandas
+numpy
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+langgraph-cli[inmem]
+faiss-cpu
+python-dotenv

@@ -1,0 +1,4 @@
+tasks_venv
+.env
+Blog_generation_Final/__pycache__
+Bodmas_agent/__pycache__

@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "bodmas_agent": "./bodmas_agent.py:agent"
+    },
+    "env": "../.env"
+}
